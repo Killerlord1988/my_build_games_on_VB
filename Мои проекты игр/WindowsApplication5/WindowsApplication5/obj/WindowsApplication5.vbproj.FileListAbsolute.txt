@@ -1,0 +1,10 @@
+D:\Переустановка\АГТУ\ДИЭ\3 семестр\Программирование\Готовые лабы\Курсовики\Мои проекты игр\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.exe
+D:\Переустановка\АГТУ\ДИЭ\3 семестр\Программирование\Готовые лабы\Курсовики\Мои проекты игр\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.xml
+D:\Переустановка\АГТУ\ДИЭ\3 семестр\Программирование\Готовые лабы\Курсовики\Мои проекты игр\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.pdb
+D:\Переустановка\АГТУ\ДИЭ\3 семестр\Программирование\Готовые лабы\Курсовики\Мои проекты игр\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.exe
+D:\Переустановка\АГТУ\ДИЭ\3 семестр\Программирование\Готовые лабы\Курсовики\Мои проекты игр\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.pdb
+D:\Переустановка\АГТУ\ДИЭ\3 семестр\Программирование\Готовые лабы\Курсовики\Мои проекты игр\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.xml
+D:\Переустановка\АГТУ\ДИЭ\3 семестр\Программирование\Готовые лабы\Курсовики\Мои проекты игр\WindowsApplication5\WindowsApplication5\obj\Debug\ResolveAssemblyReference.cache
+D:\Переустановка\АГТУ\ДИЭ\3 семестр\Программирование\Готовые лабы\Курсовики\Мои проекты игр\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form1.resources
+D:\Переустановка\АГТУ\ДИЭ\3 семестр\Программирование\Готовые лабы\Курсовики\Мои проекты игр\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Resources.resources
+D:\Переустановка\АГТУ\ДИЭ\3 семестр\Программирование\Готовые лабы\Курсовики\Мои проекты игр\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.vbproj.GenerateResource.Cache

@@ -1,0 +1,3 @@
+D:\Переустановка\АГТУ\ДИЭ\3 семестр\Программирование\Готовые лабы\Курсовики\Мои проекты игр\packman\WindowsApplication4\obj\Debug\WindowsApplication4.exe
+D:\Переустановка\АГТУ\ДИЭ\3 семестр\Программирование\Готовые лабы\Курсовики\Мои проекты игр\packman\WindowsApplication4\obj\Debug\WindowsApplication4.xml
+D:\Переустановка\АГТУ\ДИЭ\3 семестр\Программирование\Готовые лабы\Курсовики\Мои проекты игр\packman\WindowsApplication4\obj\Debug\WindowsApplication4.pdb

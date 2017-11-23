@@ -1,0 +1,3 @@
+D:\Переустановка\АГТУ\ДИЭ\3 семестр\Программирование\Готовые лабы\Курсовики\Мои проекты игр\Экстрасенс\WindowsApplication9\obj\Debug\WindowsApplication9.exe
+D:\Переустановка\АГТУ\ДИЭ\3 семестр\Программирование\Готовые лабы\Курсовики\Мои проекты игр\Экстрасенс\WindowsApplication9\obj\Debug\WindowsApplication9.xml
+D:\Переустановка\АГТУ\ДИЭ\3 семестр\Программирование\Готовые лабы\Курсовики\Мои проекты игр\Экстрасенс\WindowsApplication9\obj\Debug\WindowsApplication9.pdb
